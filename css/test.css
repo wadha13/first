@@ -1,0 +1,19 @@
+	body{ font-family: "Trebuchet MS", Helvetica, sans-serif; }
+
+	h1{
+		color:orange; 
+		font-size:70px;
+		text-decoration: underline;
+	}
+	h2{ font-size: 37px;
+		color: green;
+
+	}
+	.small{font-size: 22px;
+	}
+	span{font-style: italic;}
+	h2 span{text-decoration: line-through;
+	}
+
+
+	#first{font-size: 120px}
